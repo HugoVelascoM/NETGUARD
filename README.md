@@ -127,9 +127,15 @@ El resultado fue una **reducción del 35% en tiempos de respuesta** y **cero inc
 
 ---
 
-## 🤝 Contribuir al Proyecto
+## 📞 Soporte y Contacto
 
-1. Haz un **fork** del repositorio.
-2. Crea una rama nueva:  
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
+- 🌐 **Sitio web:** [www.netguardsolutions.com](https://www.netguardsolutions.com)
+- 📧 **Correo:** info@netguardsolutions.com
+- 📞 **Teléfono:** +1-800-555-1234
+- 💼 **LinkedIn:** [NetGuard Solutions](https://www.linkedin.com)
+
+---
+
+## 📄 Licencia
+NetGuard Pro se distribuye bajo un modelo de suscripción (mensual o anual).  
+Consulta los **[términos de licencia](https://www.netguardsolutions.com/license)** para más detalles.
